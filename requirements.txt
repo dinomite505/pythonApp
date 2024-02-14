@@ -1,2 +1,5 @@
 Flask==2.0.1
 Jinja2==3.0.1
+pytest
+flask-testing
+Werkzeug==2.3.1
